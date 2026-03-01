@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Tri Tran
 
-<!--
-**tranvantri170399/tranvantri170399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer (Mobile • Web • Backend)
+📍 Ho Chi Minh City, Vietnam
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter
+* React Native
+* Riverpod
+* REST API Integration
+
+### 🌐 Web Development
+
+* HTML / CSS / JavaScript
+* ReactJS (Basic)
+* Responsive Design
+
+### ☕ Backend Development
+
+* Java (Spring Boot)
+* RESTful API
+* JWT Authentication
+* MySQL / PostgreSQL
+* Microservices (Basic Knowledge)
+
+---
+
+## 🔧 What I’m Building
+
+* POS & Booking App for Nail Salon
+* Multi-tenant system (charge by usage time)
+* Invoice Printing + Role Management
+* Token-based Authentication System
+
+---
+
+## 📚 Currently Learning
+
+* Clean Architecture
+* Scalable Backend Design
+* Cloud Deployment (Docker / VPS)
+
+---
+
+## 📫 Contact Me
+
+* Email: tranvantri.170399@gmail.com
+* GitHub: https://github.com/tranvantri170399
+
+---
+
+⭐ Always improving. Always building.
