@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tri Tran
+# 👋 Hi, I'm Tran Van Tri
 
 🚀 Fullstack Developer (Mobile • Web • Backend)
 📍 Ho Chi Minh City, Vietnam
@@ -6,7 +6,10 @@
 ---
 
 ## 💻 Tech Stack
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 📱 Mobile Development
 
 * Flutter
@@ -36,7 +39,6 @@
 * Multi-tenant system (charge by usage time)
 * Invoice Printing + Role Management
 * Token-based Authentication System
-
 ---
 
 ## 📚 Currently Learning
